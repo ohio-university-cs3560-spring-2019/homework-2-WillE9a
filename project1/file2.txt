@@ -1,0 +1,1 @@
+This is for building substrings. For example, the word "rebuilding" is a great example. Lets just add some random builds around here. To really put this thing to the build. It is case sensitive though. So Test is not the same as build, builded, building, or even buildy... buildicles.

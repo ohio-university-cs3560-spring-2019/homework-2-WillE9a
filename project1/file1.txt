@@ -1,0 +1,1 @@
+This is for testing substrings. For example, the word "retesting" is a great example. Lets just add some random tests around here. To really put this thing to the test. It is case sensitive though. So Test is not the same as test, tested, testing, or even testy... testicles.
